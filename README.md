@@ -1,4 +1,4 @@
-# Stream
+# Streaming
 
 This is video streaming project through webcam in Flask web framework
 
